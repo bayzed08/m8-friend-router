@@ -1,0 +1,8 @@
+.friend-details{
+    text-align:center;
+    border-radius: 10px;
+    border: 1px solid gray;
+    padding:10px;
+    margin: 20px 40px;
+    box-shadow: 2px 2px 2px 2px gray;
+}
